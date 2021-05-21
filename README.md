@@ -1,8 +1,10 @@
 <div align="center">
 
 # Zippo's Echarts Gallery
-
 </div>
+
+> When you visualize, then you materialize. If you've been there in the mind you'll go there in the body.
+><div style="text-align: right"> -- <cite>Denis Waitley</cite> </div>
 
 This gallery is aimed to visualise the datasets in my research. It is still under the constrcution.
 
